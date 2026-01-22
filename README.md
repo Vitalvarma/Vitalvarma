@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:vitalvarma13@gmail.com"><img src="https://img.shields.io/badge/Email-vitalvarma13%40gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://github.com/Vitalvarma"><img src="https://img.shields.io/badge/GitHub-Vitalvarma-black?style=flat-square&logo=github"></a>
-  <a href="https://linkedin.com/in/vital-varma-a1b9002b4"><img src="https://img.shields.io/badge/LinkedIn-Vital%20Varma-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/vital-chintalapati-a1b9002b4"><img src="https://img.shields.io/badge/LinkedIn-Vital%20Varma-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://vital-portfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=vercel"></a>
 </p>
 
