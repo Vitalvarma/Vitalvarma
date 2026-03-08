@@ -78,7 +78,7 @@ Features:
 
 ---
 
-### 🌐 Social Media Platform
+### 🌐 Social Media Platform - devconnnect
 Modern full-stack social network built using **Next.js and PostgreSQL**.
 
 **Tech:** Next.js, Prisma, PostgreSQL
